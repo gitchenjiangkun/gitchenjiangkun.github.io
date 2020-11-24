@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/Administrator/Documents/Gridea/output</id>
+    <id>https://chenjiangkun.com</id>
     <title>Gridea</title>
-    <updated>2020-11-24T06:29:33.112Z</updated>
+    <updated>2020-11-24T08:47:29.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/Administrator/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/Administrator/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://chenjiangkun.com"/>
+    <link rel="self" href="https://chenjiangkun.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>C:/Users/Administrator/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/Administrator/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://chenjiangkun.com/images/avatar.png</logo>
+    <icon>https://chenjiangkun.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/Administrator/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/Administrator/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://chenjiangkun.com/post/hello-gridea</id>
+        <link href="https://chenjiangkun.com/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
